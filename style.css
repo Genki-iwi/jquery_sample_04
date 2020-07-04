@@ -6,7 +6,7 @@
 }
 
 a{
-	color:white;
+	color:#cf7500;
 }
 
 #container{
@@ -18,7 +18,7 @@ header{
 	display: flex;
 	padding: 40px;
 	background-color: #333333;
-	color: white;
+	color: #f0a500;
 }
 	header h1{
 		margin-right: auto;
@@ -35,7 +35,7 @@ section{
 	padding: 40px;
 	height: 500px;
 	margin-bottom: 40px;
- 	background-color: #DDDDDD;
+	background-color: #f0a500;
 }
 	section h1{
 		margin-bottom: 12px;
